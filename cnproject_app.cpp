@@ -2,6 +2,7 @@
 * Simple Wiselib Example
 * This is the difference for the third commit.
 For the fourth commit via chrome
+Fifth commit with some special characters éàaa
 */
 
 #include "external_interface/external_interface.h"

@@ -1,5 +1,6 @@
 /*
 * Simple Wiselib Example
+* This is the difference for the third commit.
 */
 
 #include "external_interface/external_interface.h"
